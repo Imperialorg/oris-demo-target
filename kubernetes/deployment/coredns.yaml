@@ -1,0 +1,8 @@
+         resources:
+           limits:
+             memory: 170Mi
+            cpu: 200m
+          requests:
+            memory: 128Mi
+            cpu: 100m
+           ports:
